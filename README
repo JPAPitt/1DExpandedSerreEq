@@ -1,0 +1,7 @@
+Github Repository focussing on code to solve extensions to the 1D Serre equations.
+
+The solvers will all be in Fortran.
+
+I will make use of Sympy for some symbolic manipulations: generating forced solutions, generating Finite differences.
+
+While Matlab will be used to plot outputs of solvers
